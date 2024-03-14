@@ -1,0 +1,12 @@
+Put the following documents into this folder:
+
+  1_Project_Proposal.pdf
+  2_UML_Class_Diagram.png or pdf
+  2a_UML_Class_Diagram.uxf [if you used UMLetino]
+  3_Iterative_Enhancement_Plan.pdf
+
+Use the same (or similar) names as the above, please.
+
+The Capstone Team Project is described in a link available in the Moodle
+section for Capstone Team Project.  Follow the link to see the requirements
+for each of the above documents.

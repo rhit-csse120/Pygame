@@ -1,0 +1,5 @@
+Put your project's DATA files in this folder.
+In the   src   folder, refer to them as in this example:
+   my_data = open("../data/levels.txt", "r")
+#commit is ok
+# lkjlnlknlkj
